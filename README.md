@@ -4,7 +4,7 @@
 
 This project aims to develop and implement a vaccination strategy using reinforcement learning to halt the spread of a disease. Our environment is a grid-based representation of individuals who can be in one of four states: susceptible, infected, vaccinated, or recovered (SIRV). We experimented with several RL algorithms, including PPO, DQN, and REINFORCE, to observe the emergence of effective strategies. While PPO successfully solved the problem, DQN and REINFORCE posed more challenges.
 
-This project is part of the Reinforcement Learning course (EE-568) at EPFL, Spring 2024, worth 6 ECTS credits.
+This project is part of the **Reinforcement Learning** course (EE-568) at EPFL, Spring 2024, worth 6 ECTS credits.
 
 ## Environment
 
